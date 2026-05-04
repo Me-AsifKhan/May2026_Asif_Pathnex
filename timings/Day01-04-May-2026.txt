@@ -1,0 +1,28 @@
+============================================================
+Daily PROGRESS LOG | Monday,  May 04, 2026
+============================================================
+
+STATUS : COMPLETED
+___________________________________________________________
+# What I ACHIEVED TODAY :
+___________________________________________________________
+2 Hours -  Live Session 
+
+2 Hours  - Successfully configured SSH keys & established secure
+           connection between EC2 and GitHub (No more passwords!).
+
+2 Hours -  Learning Linux, use cases, commands, troubleshooting
+
+1 Hour - Joined an online English meetup Session
+1 Hours - Watched Linux (DevOps) related videos
+
+=============================================================
+
+# TOMORROW's Tasks    
+2 Hour - Practice Git and  GitHub commands
+2 Hour - Will Learn and Practice Linux
+1 Hour - Git & GitHub videos
+3 Hours - AWS Services
+1 Hour - ChatGPT * Understanding scenarios
+1 Hour - Notes
+
