@@ -1,0 +1,20 @@
+#Today's Tasks
+Tuesday,  May 02, 2026
+=============================================================
+
+2 Hour - Practice Git and  GitHub commands
+2 Hour - Will Learn and Practice Linux
+1 Hour - Git & GitHub videos
+2 Hours - AWS Services
+1 Hour - ChatGPT * Understanding scenarios
+1 Hour - Notes
+
+
+=============================================================
+
+# TOMORROW's Tasks    
+2 Hours - Live Class
+2 Hours - Practice Linux, Git and GitHub
+1 Hour - Notes
+2 Hours - AWS Services - Explore and Practice
+2 Hours - Docker
