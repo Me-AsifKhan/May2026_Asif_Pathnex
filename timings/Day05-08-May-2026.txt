@@ -1,0 +1,37 @@
+Daily PROGRESS LOG | Friday, May 08, 2026
+
+________________________________________________________
+
+# What I ACHIEVED TODAY :
+
+___________________________________________________________
+
+2 Hours - Deep Linux Practice (Permissions, users, groups, process monitoring, troubleshooting)
+
+2 Hours - Git & GitHub Advanced Practice (Pull requests, branching strategy, resolving merge conflicts)
+
+2 Hours - AWS Networking Concepts (VPC, Subnets)
+
+3 Hours - Learning About DevOps (YouTube & Blog)
+
+1 Hour  - Communication Practice
+
+1 Hour  - Notes Revision & Organization
+
+===========================================================
+
+# TOMORROW's Tasks    
+
+2 Hours - Live Class
+
+2 Hours - Linux + Shell Scripting Basics
+
+2 Hours - AWS Hands-on Practice (EC2 + Networking)
+
+2 Hours - Docker (Build images + real use cases)
+
+1 Hour  - Mock Interview Practice (DevOps basics)
+
+1 Hour  - Notes + Revision
+
+==============================================

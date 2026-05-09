@@ -1,0 +1,38 @@
+
+Daily PROGRESS | Thursday, May 07, 2026
+
+____________________________________________________
+
+# What I ACHIEVED TODAY :
+
+___________________________________________________________
+
+2 Hours - Live Class (Focused on AWS fundamentals and architecture)
+
+2 Hours - Practiced Linux + Git + GitHub (Hands-on commands + repo workflows)
+
+1 Hour  - Notes Preparation (Structured notes for Linux + Git concepts)
+
+2 Hours - AWS Services Practice (EC2 instance creation, security groups, key pairs)
+
+2 Hours - Docker Basics
+
+1 Hour  - ChatGPT Learning (Understanding real DevOps scenarios and problem-solving)
+
+=============================================================
+
+# TOMORROW's Tasks    
+
+2 Hours - Deep Linux Practice (Advanced commands + troubleshooting)
+
+2 Hours - Git & GitHub (Advanced workflows, pull requests, collaboration)
+
+2 Hours - AWS Networking (VPC, Subnets, Internet Gateway basics)
+
+2 Hours - Docker Practice (Images, containers, lifecycle)
+
+1 Hour  - Communication Practice
+
+1 Hour  - Notes Revision
+
+=============================================================

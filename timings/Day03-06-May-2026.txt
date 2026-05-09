@@ -1,0 +1,38 @@
+
+Daily PROGRESS | Wednesday, May 06, 2026
+
+============================================================
+
+STATUS : COMPLETED
+
+___________________________________________________________
+
+# What I ACHIEVED TODAY :
+
+___________________________________________________________
+
+3 Hours - Team Session (Discussion on Git, DevOps basics, workflows)
+
+2 Hours - Practiced Linux Commands (File management, permissions, process handling, basic troubleshooting)
+
+2 Hours - Git Practice (Branching, merging)
+
+1 Hour  - Communication Practice
+
+3 Hours - Read articles, YouTube  & deep learning on DevOps concepts.
+
+=============================================================
+
+# TOMORROW's Tasks    
+
+2 Hours - Live Class
+
+2 Hours - Practice Linux, Git and GitHub
+
+1 Hour  - Notes
+
+2 Hours - AWS Services - Explore and Practice (EC2, IAM basics)
+
+2 Hours - Docker - Introduction & setup
+
+=============================================================
