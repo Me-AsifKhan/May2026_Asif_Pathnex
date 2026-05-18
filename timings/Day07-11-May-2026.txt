@@ -1,0 +1,43 @@
+=============================================================
+Daily PROGRESS LOG | Sunday, May 11, 2026
+=============================================================
+
+STATUS : COMPLETED
+
+___________________________________________________________
+
+# What I ACHIEVED TODAY :
+___________________________________________________________
+
+2 Hours - Linux Troubleshooting Practice
+           (Disk usage, permissions, logs, services, process handling)
+
+2 Hours - Git & GitHub Collaboration Practice
+           (Branch workflows, pull requests, merge conflict handling)
+
+2 Hours - AWS Networking Concepts
+           (VPC, Route Tables, Internet Gateway, public vs private subnet basics)
+
+2 Hours - Docker Practice
+           (Volumes, port mapping, container networking basics)
+
+1 Hour  - Communication & English Meetup Practice
+
+1 Hour  - Notes Preparation & Revision
+
+=============================================================
+
+# TOMORROW's Tasks    
+2 Hours - Deep Linux Commands & User Management
+
+2 Hours - AWS IAM + EC2 Practice
+
+2 Hours - Docker Image Building & Container Management
+
+2 Hours - DevOps Learning (Articles, Videos, Real Scenarios)
+
+1 Hour  - ChatGPT Scenario Practice
+
+1 Hour  - Notes & Revision
+
+=============================================================
