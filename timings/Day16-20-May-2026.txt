@@ -1,0 +1,43 @@
+=============================================================
+Daily PROGRESS LOG | Wednesday, May 20, 2026
+=============================================================
+
+STATUS : COMPLETED
+
+___________________________________________________________
+
+# What I ACHIEVED TODAY :
+___________________________________________________________
+
+2 Hours - Kubernetes Services + Ingress Basics
+           (ClusterIP, NodePort, LoadBalancer, Ingress understanding)
+
+2 Hours - Jenkins Introduction
+
+2 Hours - Terraform Introduction
+           (Providers, resources, init, plan, apply basics)
+
+2 Hours - AWS Hands-on Practice
+           (EC2 launch, IAM roles, Security Groups, SSH practice)
+
+1 Hour  - Mock Interview Practice
+           (Linux, Docker, Kubernetes and AWS questions)
+
+1 Hour  - Notes Revision & Documentation
+
+=============================================================
+
+# TOMORROW's Tasks    
+2 Hours - Terraform AWS EC2 Practice
+
+2 Hours - Jenkins Pipeline Basics
+
+2 Hours - Kubernetes YAML Deep Practice
+
+2 Hours - Linux + Git Revision
+
+1 Hour  - Communication Practice
+
+1 Hour  - Notes + Revision
+
+=============================================================
