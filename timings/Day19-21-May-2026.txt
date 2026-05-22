@@ -1,0 +1,36 @@
+# What I ACHIEVED TODAY :
+___________________________________________________________
+
+2 Hours - Terraform AWS VPC Basics
+           (VPC, subnet, route table and security group creation basics)
+
+2 Hours - Jenkins Deployment Pipeline
+           (Pipeline stages, deployment step, environment flow)
+
+2 Hours - Kubernetes Rolling Update + Rollback
+           (Deployment update, rollout status, rollout undo)
+
+2 Hours - Linux Monitoring Commands
+           (top, free, df, du, ps, journalctl, systemctl)
+
+1 Hour  - Mock Interview Practice
+           (DevOps tools, project explanation, scenario-based answers)
+
+1 Hour  - Notes Revision & Documentation
+
+=============================================================
+
+# TOMORROW's Tasks    
+2 Hours - Terraform Project Practice
+
+2 Hours - Jenkins + Docker Pipeline
+
+2 Hours - Kubernetes Revision + Commands
+
+2 Hours - AWS Core Services Revision
+
+1 Hour  - Communication Practice
+
+1 Hour  - Notes + Revision
+
+=============================================================

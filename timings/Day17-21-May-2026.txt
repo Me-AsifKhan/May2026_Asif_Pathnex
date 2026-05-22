@@ -1,0 +1,42 @@
+=============================================================
+Daily PROGRESS LOG | Thursday, May 21, 2026
+=============================================================
+
+STATUS : COMPLETED
+
+___________________________________________________________
+
+# What I ACHIEVED TODAY :
+___________________________________________________________
+
+2 Hours - Terraform AWS EC2 Practice
+           (Creating EC2 using Terraform, provider setup)
+
+2 Hours - Jenkins Basics
+           (Declarative, stages, steps, build flow understanding)
+
+2 Hours - Kubernetes YAML Practice
+           (Pods, deployments, services, labels, selectors YAML files)
+
+2 Hours - Linux + Git Revision
+           (Commands, branching, commits, logs, troubleshooting basics)
+
+1 Hour  - Communication Practice
+
+1 Hour  - Notes Revision & Cleanup
+
+=============================================================
+
+# TOMORROW's Tasks    
+2 Hours - Terraform Variables + Outputs
+
+2 Hours - Jenkins 
+2 Hours - Kubernetes Troubleshooting
+
+2 Hours - AWS VPC Revision
+
+1 Hour  - Interview Q&A Practice
+
+1 Hour  - Notes + Revision
+
+=============================================================

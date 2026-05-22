@@ -1,0 +1,34 @@
+# What I ACHIEVED TODAY :
+___________________________________________________________
+
+2 Hours - Terraform Modules Basics
+           (Module structure, reusability, input/output usage)
+
+2 Hours - Jenkins CI/CD End-to-End Flow
+           (GitHub to Jenkins pipeline workflow understanding)
+
+2 Hours - Kubernetes Probes + Health Checks
+           (Liveness probe, readiness probe, restart behavior)
+
+2 Hours - AWS IAM + Security Revision
+           (Users, roles, policies, MFA, least privilege basics)
+
+1 Hour  - ChatGPT Scenario Practice
+           (Production issue discussion and troubleshooting practice)
+
+1 Hour  - Weekly Notes Review & Planning
+
+=============================================================
+
+# TOMORROW's Tasks    
+2 Hours - Terraform AWS VPC Basics
+
+2 Hours - Jenkins Deployment Pipeline
+
+2 Hours - Kubernetes Rolling Update + Rollback
+
+2 Hours - Linux Monitoring Commands
+
+1 Hour  - Mock Interview Practice
+
+1 Hour  - Notes + Revision
