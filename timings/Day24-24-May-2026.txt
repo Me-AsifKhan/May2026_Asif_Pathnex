@@ -1,0 +1,31 @@
+========================================================
+
+# What I ACHIEVED TODAY :
+___________________________________________________________
+
+3 Hours - Advanced Terraform State Management & Workspace
+           (State migration, handling state locks, and workspace isolation)
+
+3 Hours - Kubernetes Networking Troubleshooting
+           (Debugging Service-to-Pod connectivity, Ingress routing, and CoreDNS)
+
+2 Hours - Docker Containerization & Optimization
+           (Writing multi-stage Dockerfiles and reducing image sizes)
+
+2 Hours - Jenkins CI/CD Pipeline Concepts
+           (Declarative pipelines, Jenkinsfile syntax, and shared libraries)
+
+1 Hour  - Communication Practice
+           (Explaining architecture designs smoothly in English)
+
+2 Hour  - Notes Revision
+           
+
+=============================================================
+
+# TOMORROW's Tasks    
+3 Hours - Terraform Refactoring & Import (Moving existing infrastructure)
+3 Hours - Kubernetes Storage & Volume Troubleshooting (PV, PVC, CSI drivers)
+2 Hours - Linux Basics & Shell Scripting for Automation
+2 Hours - Mock Interview (DevOps Scenario questions)
+2 Hour  - Day Planning & Review
