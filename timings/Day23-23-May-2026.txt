@@ -1,0 +1,32 @@
+========================================================
+
+# What I ACHIEVED TODAY :
+___________________________________________________________
+
+2 Hours - Terraform Interview Questions + Scenarios
+           (syntax, state locking, remote backends, and lifecycle rules)
+
+2 Hours - Terraform Hands on practice
+           (Writing modular code, dynamic blocks, and variable validation)
+
+2 Hours - Kubernetes Troubleshooting Revision
+           (Debugging CrashLoopBackOff, and Pending pods)
+
+2 Hours - DevOps workflow
+           (Understanding Git branching strategies and Git-flow models)
+
+1 Hour  - Mock Interview Practice
+           (Answering scenario-based questions and refining technical pitch)
+
+2 Housr  - Notes + Planning
+           (Reviewing today's mistakes and tracking weak areas)
+
+=============================================================
+
+# TOMORROW's Tasks    
+3 Hours - Advanced Terraform State Management & Workspace
+2 Hours - Kubernetes Networking Troubleshooting (Services, Ingress, DNS)
+2 Hours - Docker Containerization & Optimization
+2 Hours - Jenkins CI/CD Pipeline Concepts
+1 Hour  - Communication Practice
+2 Hours  - Notes Revisiion
