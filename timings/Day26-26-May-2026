@@ -1,0 +1,28 @@
+========================================================
+
+# What I ACHIEVED TODAY :
+___________________________________________________________
+
+3 Hours - Terraform Provisioners & Null Resources
+           (Implementing remote-exec, local-exec, and managing dependencies)
+
+2 Hours - Kubernetes Cluster Troubleshooting
+           (Analyzing Kubelet failures, systemd logs, and reviving NotReady nodes)
+
+3 Hours -  Jenkins
+	    CI/CD Hands-on Practice (Building workflows, triggers, secrets management, and matrix builds)
+
+2 Hours - AWS Advanced Networking Revision
+           (Deep dive into Transit Gateway, VPC Peering, and Route Tables)
+
+2 Hours - Notes Revision & Final Cleanup
+           
+
+=============================================================
+
+# TOMORROW's Tasks    
+2 Hours - Terraform Integration with CI/CD Pipelines
+3 Hours - Kubernetes Monitoring & Logging Troubleshooting (Prometheus/Grafana)
+2 Hours - Ansible Basics & Configuration Management
+3 Hours - Behavioral Interview Questions Preparation
+1 Hour  - Review
