@@ -1,0 +1,28 @@
+========================================================
+
+# What I ACHIEVED TODAY :
+___________________________________________________________
+
+3 Hours - Infrastructure Drift Detection & Resolution
+           (Identifying manual AWS modifications and reconciling them with Terraform)
+
+2 Hours - Kubernetes Upgrades & Maintenance Simulation
+           (Understanding cordon, drain, and upgrading cluster components safely)
+
+3 Hours - End-to-End DevOps Pipeline Deployment
+           (Combining Git, GitHub Actions, Docker, and Kubernetes deployment)
+
+2 Hours - Resume Review & Profile Optimization
+           (Aligning project descriptions with keywords for DevOps roles)
+
+1 Hour  - Final Polish & Planning
+           (Tracking remaining doubts and writing clear system explanations)
+
+=============================================================
+
+# TOMORROW's Tasks    
+3 Hours - Complex DevOps Architecture Scenario Brainstorming
+3 Hours - Real-Time Outage & Disaster Recovery Drills (RTO/RPO)
+2 Hours - Quick Revision of all Cheat-sheets (Terraform, K8s, AWS)
+2 Hours - Speech Confidence & Body Language Session
+1 Hour  - Final Wrap-up Notes
